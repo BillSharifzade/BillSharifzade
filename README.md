@@ -108,7 +108,7 @@ My portfolio and living CV. Animated React + Vite front end with the CV exported
 <table>
 <tr>
 <td width="190"><b>Languages</b></td>
-<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,go,c,zig,py,ts,js,php&theme=dark" alt="Rust, Go, C, Zig, Python, TypeScript, JavaScript, PHP"></a></td>
+<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,go,py,ts&theme=dark" alt="Rust, Go, Python, TypeScript"></a></td>
 </tr>
 <tr>
 <td width="190"><b>Backend &amp; web</b></td>
