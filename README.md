@@ -108,19 +108,35 @@ My portfolio and living CV. Animated React + Vite front end with the CV exported
 <table>
 <tr>
 <td width="190"><b>Languages</b></td>
-<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,go,py,ts&theme=dark" alt="Rust, Go, Python, TypeScript"></a></td>
+<td><img src="assets/stack-languages.svg" alt="Rust, Go, Python, TypeScript" height="48"></td>
 </tr>
 <tr>
-<td width="190"><b>Backend &amp; web</b></td>
-<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,tauri,nodejs,bun&theme=dark" alt="FastAPI, Next.js, React, Tauri, Node.js, Bun"></a></td>
+<td width="190"><b>Rust, day to day</b></td>
+<td><img src="assets/stack-rust.svg" alt="Axum, Actix, Tokio, hyper, SQLx, Tauri, Ratatui" height="48"></td>
+</tr>
+<tr>
+<td width="190"><b>Go &amp; Python</b></td>
+<td><img src="assets/stack-go-py.svg" alt="chi, pgx, FastAPI, NumPy, pandas, TensorFlow" height="48"></td>
+</tr>
+<tr>
+<td width="190"><b>Web</b></td>
+<td><img src="assets/stack-web.svg" alt="Next.js, React, Node.js, Bun" height="48"></td>
+</tr>
+<tr>
+<td width="190"><b>Low-level &amp; graphics</b></td>
+<td><img src="assets/stack-lowlevel.svg" alt="C, Zig, Assembly, OpenGL, Vulkan" height="48"></td>
 </tr>
 <tr>
 <td width="190"><b>Data &amp; infra</b></td>
-<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,redis,kafka,docker,nginx,linux,arch,bash,git,githubactions,gitlab&theme=dark" alt="PostgreSQL, Redis, Kafka, Docker, Nginx, Linux, Arch, Bash, Git, GitHub Actions, GitLab"></a></td>
+<td><img src="assets/stack-infra.svg" alt="PostgreSQL, Redis, Kafka, Docker, Nginx, Git, GitHub Actions, GitLab" height="48"></td>
+</tr>
+<tr>
+<td width="190"><b>Linux, all the way down</b></td>
+<td><img src="assets/stack-linux.svg" alt="Linux, Arch, Gentoo, Kali, systemd, Bash" height="48"></td>
 </tr>
 </table>
 
-<sub>What I actually reach for: **Rust** with Axum, Actix, Tokio, Tauri and Ratatui · **Go** with chi and pgx · **Python** with FastAPI, NumPy/Pandas and TensorFlow · **C** with OpenGL and Vulkan, plus Zig and Assembly when it matters · **Linux** all the way down: Arch, Gentoo and Kali, the kernel, systemd, syscalls.</sub>
+<sub>Tiles come from <a href="https://github.com/tandpfun/skill-icons">skill-icons</a> and each project's own mark, stitched together by a script in this repo, so nothing here waits on a third-party API.</sub>
 
 <br>
 <br>
