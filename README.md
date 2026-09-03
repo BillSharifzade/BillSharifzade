@@ -112,15 +112,15 @@ My portfolio and living CV. Animated React + Vite front end with the CV exported
 </tr>
 <tr>
 <td width="190"><b>Backend &amp; web</b></td>
-<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,django,nextjs,react,tauri,nodejs,bun,laravel,tailwind,vite&theme=dark" alt="FastAPI, Django, Next.js, React, Tauri, Node.js, Bun, Laravel, Tailwind, Vite"></a></td>
+<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,tauri,nodejs,bun&theme=dark" alt="FastAPI, Next.js, React, Tauri, Node.js, Bun"></a></td>
 </tr>
 <tr>
 <td width="190"><b>Data &amp; infra</b></td>
-<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,mysql,kafka,docker,nginx,linux,arch,bash,git,githubactions,gitlab&theme=dark" alt="PostgreSQL, Redis, SQLite, MySQL, Kafka, Docker, Nginx, Linux, Arch, Bash, Git, GitHub Actions, GitLab"></a></td>
+<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,redis,kafka,docker,nginx,linux,arch,bash,git,githubactions,gitlab&theme=dark" alt="PostgreSQL, Redis, Kafka, Docker, Nginx, Linux, Arch, Bash, Git, GitHub Actions, GitLab"></a></td>
 </tr>
 <tr>
 <td width="190"><b>Low-level, ML &amp; cloud</b></td>
-<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=opengl,vulkan,tensorflow,grafana,cmake,azure,gcp&theme=dark" alt="OpenGL, Vulkan, TensorFlow, Grafana, CMake, Azure, Google Cloud"></a></td>
+<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=opengl,vulkan,cmake&theme=dark" alt="OpenGL, Vulkan, CMake"></a></td>
 </tr>
 </table>
 
