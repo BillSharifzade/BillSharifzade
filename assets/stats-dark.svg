@@ -6,7 +6,7 @@
   <rect x="0.5" y="0.5" width="899" height="239" rx="16" fill="#0a0a0e" stroke="#232330"/>
 
   <text x="32" y="40" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#818cf8" letter-spacing="2.5">GITHUB ACTIVITY</text>
-  <text x="868" y="40" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b8b96">refreshed 2026-10-06 · on GitHub since Jul 2024</text>
+  <text x="868" y="40" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b8b96">refreshed 2026-10-07 · on GitHub since Jul 2024</text>
   
     <g transform="translate(32 0)">
       <text x="0" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#e8dede" letter-spacing="-0.5">349</text>
@@ -31,20 +31,20 @@
   </g>
 
   <rect x="32" y="190" width="836" height="10" rx="5" fill="#1c1c26"/>
-  <g clip-path="url(#bar)"><rect x="32.00" y="190" width="250.34" height="10" fill="#3178c6"/><rect x="282.34" y="190" width="163.22" height="10" fill="#dea584"/><rect x="445.56" y="190" width="161.50" height="10" fill="#00ADD8"/><rect x="607.07" y="190" width="71.34" height="10" fill="#3572A5"/><rect x="678.41" y="190" width="42.25" height="10" fill="#f1e05a"/><rect x="720.66" y="190" width="41.42" height="10" fill="#663399"/><rect x="762.08" y="190" width="105.92" height="10" fill="#8b8b96"/></g>
+  <g clip-path="url(#bar)"><rect x="32.00" y="190" width="273.44" height="10" fill="#3178c6"/><rect x="305.44" y="190" width="160.28" height="10" fill="#dea584"/><rect x="465.73" y="190" width="151.62" height="10" fill="#00ADD8"/><rect x="617.35" y="190" width="67.16" height="10" fill="#3572A5"/><rect x="684.50" y="190" width="43.64" height="10" fill="#663399"/><rect x="728.14" y="190" width="39.67" height="10" fill="#f1e05a"/><rect x="767.81" y="190" width="100.19" height="10" fill="#8b8b96"/></g>
   
     <circle cx="36" cy="219" r="4" fill="#3178c6"/>
-    <text x="46" y="223" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b8b96">TypeScript 30%</text>
+    <text x="46" y="223" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b8b96">TypeScript 33%</text>
     <circle cx="184" cy="219" r="4" fill="#dea584"/>
-    <text x="194" y="223" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b8b96">Rust 20%</text>
+    <text x="194" y="223" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b8b96">Rust 19%</text>
     <circle cx="284" cy="219" r="4" fill="#00ADD8"/>
-    <text x="294" y="223" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b8b96">Go 19%</text>
+    <text x="294" y="223" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b8b96">Go 18%</text>
     <circle cx="368" cy="219" r="4" fill="#3572A5"/>
-    <text x="378" y="223" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b8b96">Python 9%</text>
-    <circle cx="476" cy="219" r="4" fill="#f1e05a"/>
-    <text x="486" y="223" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b8b96">JavaScript 5%</text>
-    <circle cx="616" cy="219" r="4" fill="#663399"/>
-    <text x="626" y="223" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b8b96">CSS 5%</text>
+    <text x="378" y="223" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b8b96">Python 8%</text>
+    <circle cx="476" cy="219" r="4" fill="#663399"/>
+    <text x="486" y="223" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b8b96">CSS 5%</text>
+    <circle cx="560" cy="219" r="4" fill="#f1e05a"/>
+    <text x="570" y="223" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b8b96">JavaScript 5%</text>
     <circle cx="700" cy="219" r="4" fill="#8b8b96"/>
-    <text x="710" y="223" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b8b96">Other 13%</text>
+    <text x="710" y="223" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#8b8b96">Other 12%</text>
 </svg>
