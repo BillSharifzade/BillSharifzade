@@ -148,6 +148,7 @@ My portfolio and living CV. Animated React + Vite front end with the CV exported
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
+  
   <img src="assets/stats-dark.svg" alt="GitHub activity: contributions, repos, stars, followers, streaks and language breakdown" width="100%">
 </picture>
 
